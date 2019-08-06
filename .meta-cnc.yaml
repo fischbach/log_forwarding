@@ -70,7 +70,7 @@ variables:
 #
 snippets:
   - name: Forwarding_Profile1
-    xpath: /config/devices/entry[@name='localhost.localdomain']/device-group/entry[@name='{{ mobile_device_group }}']
+    xpath: /config/devices/entry[@name='localhost.localdomain']/device-group/entry[@name='{{ mobile_device_group }}']/log-settings/profiles
     file: forwardingProfile1.xml
 #
 #  - name: decrypt
