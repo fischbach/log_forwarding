@@ -71,7 +71,7 @@ variables:
 snippets:
   - name: Forwarding_Profile
     xpath: /config/devices/entry[@name='localhost.localdomain']/device-group
-    file: forwardingProfile.xml
+    file: forwardingProfile1.xml
 #
 #  - name: decrypt
 #    xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/setting/ssl-decrypt
