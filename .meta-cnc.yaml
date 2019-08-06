@@ -4,7 +4,7 @@
 name: LogForwardProfile4GPCS
 # label used for menu selection
 label: Log Forwarding Profile for Prisma-Access
-description: Prisma POC-
+description: Prisma - setting the log forwarding parameters
 
 # type of device configuration
 # common types are panorama, panos, and template
