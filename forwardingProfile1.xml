@@ -1,8 +1,4 @@
-<entry name="{{ mobile_device_group }}">
-        <description> Device Group (Use the Cloud Services plugin to edit)</description>
-        <devices/>
-        <log-settings>
-          <profiles>
+
             <entry name="Enhanced_log_forwarding_profile">
               <match-list>
                 <entry name="traffic-enhanced-app-logging">
@@ -53,5 +49,3 @@
                 </entry>
               </match-list>
             </entry>
-          </profiles>
-        </log-settings>

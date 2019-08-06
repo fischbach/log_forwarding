@@ -69,8 +69,8 @@ variables:
 # files will load in the order listed
 #
 snippets:
-  - name: Forwarding_Profile
-    xpath: /config/devices/entry[@name='localhost.localdomain']/device-group/
+  - name: Forwarding_Profile1
+    xpath: /config/devices/entry[@name='localhost.localdomain']/device-group/entry[@name='{{ mobile_device_group }}']
     file: forwardingProfile1.xml
 #
 #  - name: decrypt
