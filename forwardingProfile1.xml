@@ -42,7 +42,7 @@
                <entry name="Enhanced_log-forwarding_profile">
               <enhanced-application-logging>yes</enhanced-application-logging>
               <match-list>
-                <entry name="name">
+                <entry name="name">e
                   <log-type>traffic</log-type>
                   <filter>All Logs</filter>
                   <send-to-panorama>yes</send-to-panorama>
